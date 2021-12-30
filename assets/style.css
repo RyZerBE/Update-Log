@@ -1,0 +1,32 @@
+/*li {
+    align-items: center;
+    margin: 10px 0;
+    line-height: 30px;
+    list-style: none;
+    list-style-image: url("IconFix.png");
+}
+
+li:before {
+    display: block;
+    width: 33px;
+    height: 33px;
+    margin-right: 10px;
+    vertical-align: middle;
+
+    background: url(IconFix.png) no-repeat left;
+    background-size: contain;
+
+    content: '';
+}*/
+/*li:before .add{
+    background: url(IconAdd.png) no-repeat left center;
+    background-size: contain;
+}
+li:before .remove{
+    background: url(IconRemove.png) no-repeat left center;
+    background-size: contain;
+}
+li:before .fix{
+    background: url(IconFix.png) no-repeat left center;
+    background-size: contain;
+}*/

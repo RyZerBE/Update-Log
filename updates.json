@@ -1,0 +1,44 @@
+[
+	{
+		"version": "0.2-alpha",
+		"name": "Lorem ipsum 2",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914378537211932692/unknown.png",
+		"changes": [ "Players can no longer join","xxAROX made this" ],
+		"timestamp": 1638133324
+	},
+	{
+		"version": "0.1-alpha",
+		"name": "Lorem ipsum",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914046018939650048/unknown.png",
+		"changes": [ "Players can join now!","xxAROX made this","Lobby signs","Sync player data loading"],
+		"timestamp": -1
+	},
+	{
+		"version": "0.1-alpha",
+		"name": "Lorem ipsum",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914378805815148554/unknown.png",
+		"changes": [ "Players can join now!","xxAROX made this","Lobby signs","Sync player data loading"],
+		"timestamp": -1
+	},
+	{
+		"version": "0.1-alpha",
+		"name": "Lorem ipsum",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914046018939650048/unknown.png",
+		"changes": [ "Players can join now!","xxAROX made this","Lobby signs","Sync player data loading"],
+		"timestamp": -1
+	},
+	{
+		"version": "0.2-alpha",
+		"name": "Update 2",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914046018939650048/unknown.png",
+		"changes": [ "Players can join now!","xxAROX made this","Lobby signs","Sync player data loading"],
+		"timestamp": -1
+	},
+	{
+		"version": "0.1-alpha",
+		"name": "Update 1",
+		"image": "https://cdn.discordapp.com/attachments/802405860184817685/914378537211932692/unknown.png",
+		"changes": [ "+Players can join now!","+xxAROX made this","Lobby signs","-Sync player data on loading"],
+		"timestamp": -1
+	}
+]
